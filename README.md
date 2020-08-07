@@ -4,16 +4,16 @@
 - I am currently working through a tutorial series on NodeJS OAuth2 development.
 - Some facts about me: I love working on new projects that I find interesting and will work on them until they are finished!
 
-### Connect with me:
+# Connect with me:
 [Discord][portfolioconnect]
 [Youtube][portfolioconnect]
 
-### See my work
-## Node JS
+## See my work
+### Node JS
 [My public discord bot][simplytickets]
 
 ## Java
-# My SpigotMC Plugins:
+### My SpigotMC Plugins:
 [LoginStreak][loginstreak]
 [Hats][hats]
 
@@ -27,4 +27,4 @@
 [portfolioconnect]: https://munch42.github.io/pages/contact.html
 [simplytickets]: https://github.com/Munch42/Simply-Tickets-Bot
 [loginstreak]: https://github.com/Munch42/LoginStreaks-Plugin
-[hats]: https://github.com/Munch42/Hats-Plugin
+[hats]: https://github.com/Munch42/Hats-Plugin 
