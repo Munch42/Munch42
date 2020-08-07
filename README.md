@@ -5,8 +5,8 @@
 - Some facts about me: I love working on new projects that I find interesting and will work on them until they are finished!
 
 # Connect with me:
-[Discord][portfolioconnect]
-[Youtube][portfolioconnect]
+[<img align="left" alt="My Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][portfolioconnect]
+[<img align="left" alt="My Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />][portfolioconnect]
 
 ## See my work
 ### Node JS
@@ -19,6 +19,9 @@
 
 ## HTML and CSS
 [My Responsive Portfolio Site][portfolio]
+
+[comment]: https://github.com/anuraghazra/github-readme-stats
+[![Munch42's github stats](https://github-readme-stats.vercel.app/api?username=Munch42&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
