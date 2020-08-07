@@ -16,7 +16,7 @@
 
 ## Java
 ### My SpigotMC Plugins:
-[LoginStreak][loginstreak]
+[LoginStreak][loginstreak] <br />
 [Hats][hats]
 
 ## HTML and CSS
