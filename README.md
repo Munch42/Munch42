@@ -1,8 +1,6 @@
  ### Hi there, I am [Munch42][portfolio]!
 
  ## I am a developer who wants to learn more programming whenever I can!
-- I am currently working through a tutorial series on NodeJS OAuth2 development.
-- Some facts about me: I love working on new projects that I find interesting and will work on them until they are finished!
 
 # Connect with me:
 [<img align="left" alt="My Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][portfolioconnect]
