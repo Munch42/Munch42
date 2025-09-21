@@ -1,10 +1,8 @@
- ### Hi there, I am [Munch42]!
+ ### Hi there, I am Munch42!
 
- ## I am a Software Engineering Student excited about creating programs to improve people's lives!
+I am a Software Engineering Student excited about creating programs to improve people's lives!
 
-<br />
-
-## See my work
+# See my work
 ## Java
 ### My SpigotMC Plugins:
 [LoginStreak][loginstreak] <br />
