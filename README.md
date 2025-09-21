@@ -1,24 +1,14 @@
- ### Hi there, I am [Munch42][portfolio]!
+ ### Hi there, I am [Munch42]!
 
- ## I am a developer who wants to learn more programming whenever I can!
-
-# Connect with me:
-[<img align="left" alt="My Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][portfolioconnect]
-[<img align="left" alt="My Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/youtube.svg" />][portfolioconnect]
+ ## I am a Software Engineering Student excited about creating programs to improve people's lives!
 
 <br />
 
 ## See my work
-### Node JS
-[My public discord bot][simplytickets]
-
 ## Java
 ### My SpigotMC Plugins:
 [LoginStreak][loginstreak] <br />
 [Hats][hats]
-
-## HTML and CSS
-[My Responsive Portfolio Site][portfolio]
 
 [comment]: https://github.com/anuraghazra/github-readme-stats
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Munch42&count_private=true&show_icons=true" />
